@@ -3,7 +3,7 @@ name: Java CI with Gradle
 on:
   pull_request:
     branches:
-      - master  # Запускати при PR в гілку 'main'
+      - master  # Запускати при PR в гілку 'master'
 
 jobs:
   build:
